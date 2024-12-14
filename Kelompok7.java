@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+//FIX
 public class Kelompok7{
     static Scanner sc = new Scanner(System.in);
     static String menuKafe[][] = {{"Kopi Hitam", "15000"}, {"Latte", "22000"}, {"Teh Tarik", "12000"}, {"Mie Goreng", "18000"}};
